@@ -3,6 +3,10 @@ import requests
 import openai
 from audio_recorder_streamlit import audio_recorder
 
+#$streamlit run .\PictureBot.py
+#で実行
+
+
 #変数（streamlitでは変数の変更ができないため）
 if 'count' not in st.session_state:
     st.session_state["count"] = 0
