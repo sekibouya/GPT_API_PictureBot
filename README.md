@@ -27,6 +27,7 @@
 
 4. 画像が生成され表示される
   ![画像7](https://github.com/sekibouya/GPT_API_PictureBot/assets/99582134/4c9bba17-419f-4dd1-8af3-49639f966d9d)
+
    画風:５歳児のクレヨン, 入力:Mount Fuji<br>
 
    ※繰り返し画像を生成すると下ように複数表示される
@@ -43,8 +44,7 @@
 * 画像の複数表示
 
 ## Author
-name: せき
-
+name: せき<br>
 X: @sekibouya_
 
 ## Licence
