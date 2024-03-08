@@ -12,9 +12,9 @@
 
 ## Usage
 ### 実行方法
-'''
+```
 streamlit run .\PictureBot.py
-'''
+```
 
 ### 1. Open AIのAPI-KEYを入力
 ![画像1](https://github.com/sekibouya/GPT_API_PictureBot/assets/99582134/58adbdc3-feb6-4dca-86d6-4e76ce45b7b5)
