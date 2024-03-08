@@ -26,9 +26,9 @@
 ![画像4](https://github.com/sekibouya/GPT_API_PictureBot/assets/99582134/1693de3b-0b96-48d6-8fb7-28c83679d202)
 
 4. 画像が生成され表示される
-  ![画像7](https://github.com/sekibouya/GPT_API_PictureBot/assets/99582134/4c9bba17-419f-4dd1-8af3-49639f966d9d)
+   ![画像7](https://github.com/sekibouya/GPT_API_PictureBot/assets/99582134/0c5d203b-ac92-4e7f-ad24-72819cee0bf1)
 
-   画風:５歳児のクレヨン, 入力:Mount Fuji<br>
+   (画風:５歳児のクレヨン, 入力:Mount Fuji)<br>
 
    ※繰り返し画像を生成すると下ように複数表示される
    ![画像6](https://github.com/sekibouya/GPT_API_PictureBot/assets/99582134/a701b594-e8ac-45bb-850f-a44a640ed5f9)
