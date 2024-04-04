@@ -49,7 +49,3 @@ streamlit run .\PictureBot.py
 ## Author
 name: せき<br>
 X: @sekibouya_
-
-## Licence
-MIT
-
